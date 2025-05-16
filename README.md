@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # PPL_Module3_Fanus
 Repository Untuk Kegiatan modul 3 praktikum PPL
 =======
+=======
+>>>>>>> d366f19 (Pengerjaan Ulang)
 # StudiKasus-Modul-3-PPL
 REQUIREMENT MODUL 3
 Assalamualaiukum 
@@ -45,4 +48,7 @@ php artisan dusk:install
 buka terminal baru jalankan npm install
 
 Jalankan proyek laravel dengan perintah php artisan serve & npm run dev pada terminal/cmd yang berbeda
+<<<<<<< HEAD
 >>>>>>> f93142b (Pengumpulan Modul 3 Praktikum PPL)
+=======
+>>>>>>> d366f19 (Pengerjaan Ulang)
